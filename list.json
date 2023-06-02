@@ -1,27 +1,40 @@
 [
   {
     "id": 1,
-    "name": "Item 1",
-    "description": "This is the first item."
+    "name": "GTA Vice City",
+    "icon": "path/to/gta_icon.png",
+    "cheatCodes": [
+      {
+        "code": "NUTTERTOOLS",
+        "description": "All heavy weapons"
+      },
+      {
+        "code": "TURTOISE",
+        "description": "Full health and armor"
+      },
+      {
+        "code": "LEAVEMEALONE",
+        "description": "Decrease Wanted Level"
+      }
+    ]
   },
   {
     "id": 2,
-    "name": "Item 2",
-    "description": "This is the second item."
-  },
-  {
-    "id": 3,
-    "name": "Item 3",
-    "description": "This is the third item."
-  },
-  {
-    "id": 4,
-    "name": "Item 4",
-    "description": "This is the fourth item."
-  },
-  {
-    "id": 5,
-    "name": "Item 5",
-    "description": "This is the fifth item."
+    "name": "IGI",
+    "icon": "path/to/igi_icon.png",
+    "cheatCodes": [
+      {
+        "code": "IAMPRO",
+        "description": "Unlimited ammo"
+      },
+      {
+        "code": "GODMODE",
+        "description": "Invincibility"
+      },
+      {
+        "code": "SHOWMETHEMONEY",
+        "description": "Get money"
+      }
+    ]
   }
 ]

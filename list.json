@@ -37,4 +37,24 @@
       }
     ]
   }
+  
+   {
+    "id": 3,
+    "name": "test",
+    "icon": "assets/logo.png",
+    "cheatCodes": [
+      {
+        "code": "AAAAA",
+        "description": "Unlimited ammo"
+      },
+      {
+        "code": "BBBBB",
+        "description": "Invincibility"
+      },
+      {
+        "code": "CCCCCC",
+        "description": "Get money"
+      }
+    ]
+  }
 ]
